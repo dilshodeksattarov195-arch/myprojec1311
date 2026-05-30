@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerdave",
+        "uuid": 5183694,
+        "checksum": "4z1ua9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
